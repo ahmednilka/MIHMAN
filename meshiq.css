@@ -1,0 +1,45 @@
+body{
+    font-family: 'Mali', cursive;
+}
+
+.bash{
+    background:#33FFF1  ;
+    height: 100px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.moeder{
+    background: #f3f3f3;
+    height: 300px;
+    margin: 10px 0 10px 0;
+}
+
+.left{
+    background: #33FFF1;
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.center{
+    background: #33FFF1;
+    width: 600px;
+    height: 300px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.right{
+    background: #33FFF1;
+    width: 290px;
+    height: 300px;
+    float:right;
+}
+
+.footer{
+    background: #33FFF1;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+}
